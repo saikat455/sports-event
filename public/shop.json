@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    
+    "price": "99,99€",
+    "title": "PLAYER'S EDITION",
+    "description": "FC Barcelona home shirt 23/24 - Long-sleeve Player's Edition",
+    "image": "image1.webp"
+  },
+  {
+    "id": 2,
+    
+    "price": "64,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "FC Barcelona Pre-Match home Shirt 23/24 - La Liga",
+    "image": "image2.webp"
+  },
+  {
+    "id": 3,
+    "price": "154,99€",
+    "title": "PLAYER'S EDITION",
+    "description": "UCL FC Barcelona home shirt 23/24 Player's Edition",
+    "image": "image3.webp"
+  },
+  {
+    "id": 4,
+    
+    "price": "89,99€",
+    "title": "PLAYER'S EDITION",
+    "description": "FC Barcelona Pre-Match home jacket 23/24",
+    "image": "image4.webp"
+  },
+  {
+    "id": 5,
+   
+    "price": "79,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "UCL FC Barcelona home shirt 23/24 - Junior",
+    "image": "image5.webp"
+  },
+  {
+    "id": 6,
+    
+    "price": "99,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "LFP FC Barcelona away shirt 23/24",
+    "image": "image6.webp"
+  },
+  {
+    "id": 7,
+   
+    "price": "44,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "FC Barcelona away shorts 23/24",
+    "image": "image7.webp"
+  },
+  {
+    "id": 8,
+   
+    "price": "154,99€",
+    "title": "PLAYER'S EDITION",
+    "description": "LFP FC Barcelona away shirt 23/24 Player’s Edition",
+    "image": "image8.webp"
+  },
+  {
+    "id": 9,
+    
+    "price": "24,99€",
+    "title": "PLAYER'S EDITION",
+    "description": "FC Barcelona scarf away 23/24",
+    "image": "image9.webp"
+  },
+  {
+    "id": 10,
+    
+    "price": "69,99€",
+    "title": "CRUYFF COLLECTION",
+    "description": "70's Retro Johan Cruyff White Shirt",
+    "image": "image10.webp"
+  },
+  {
+    "id": 11,
+   
+    "price": "154,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "LFP FC Barcelona away shirt 23/24 Player’s Edition - JOÃO CANCELO",
+    "image": "image11.webp"
+  },
+  {
+    "id": 12,
+    
+    "price": "$49.99",
+    "title": "PLAYER'S EDITION",
+    "description": "LFP FC Barcelona away shirt 23/24 - Women",
+    "image": "image12.webp"
+  },
+  {
+    "id": 13,
+    
+    "price": "99,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "LFP FC Barcelona away shirt 23/24 - Women",
+    "image": "image13.webp"
+  },
+  {
+    "id": 14,
+    
+    "price": "14,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "Barça Away Kit Bottle 23/24",
+    "image": "image14.webp"
+  },
+  {
+    "id": 15,
+    
+    "price": "27,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "Away Kit Ball 23/24 Baça Nike",
+    "image": "image15.webp"
+  },
+  {
+    "id": 16,
+    
+    "price": "27,99€",
+    "title": "BARCA EXCLUSIVE",
+    "description": "Home Kit Ball 23/24 Baça Nike",
+    "image": "image16.webp"
+  }
+]

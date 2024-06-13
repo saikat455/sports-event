@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "world-cup.jpg",
+    "name": "FIFA World Cup",
+    "title": "The Pinnacle of International Football",
+    "description": "The FIFA World Cup is the top global football event, where teams from around the world compete for the coveted trophy. It's a month-long celebration of soccer, showcasing the best talent globally."
+  },
+  {
+    "id": 2,
+    "image": "uefa.jpg",
+    "name": "UEFA Champions League",
+    "title": "Europe's Premier Club Competition",
+    "description": "The UEFA Champions League gathers Europe's top football clubs in a battle for supremacy. Known for intense matches and iconic moments, legends are made here."
+  },
+  {
+    "id": 3,
+    "image": "copa.jpg",
+    "name": "Copa America",
+    "title": "South America's Football Showpiece",
+    "description": "Copa America is the oldest international football tournament, featuring the best South American teams. Known for passionate fans and breathtaking football."
+  },
+  {
+    "id": 4,
+    "image": "cope-libertadores.jpg",
+    "name": "Copa Libertadores",
+    "title": "The Quest for South American Glory",
+    "description": "Copa Libertadores is South America's top club competition, where clubs compete for a chance to be champions. It's a showcase of skill and determination."
+  },
+  {
+    "id": 5,
+    "image": "nations-cup.jpg",
+    "name": "African Cup of Nations",
+    "title": "Africa's Football Extravaganza",
+    "description": "AFCON brings together Africa's top national teams for an intense competition. It's a platform for African talent to shine on the world stage."
+  },
+  {
+    "id": 6,
+    "image": "euro.jpg",
+    "name": "UEFA European Championship ",
+    "title": "Europe's Battle for Supremacy",
+    "description": "The UEFA European Championship, commonly known as the Euro, is a prestigious international tournament that pits Europe's best national teams against each other. "
+  },
+  {
+    "id": 7,
+    "image": "cope-del-rey.jpg",
+    "name": "Copa del Rey",
+    "title": "Spain's Premier Cup Competition",
+    "description": "Copa del Rey is Spain's top domestic cup competition, featuring La Liga's top clubs. It's a chance for underdogs to upset the giants and claim glory."
+  },
+  {
+    "id": 8,
+    "image": "club-world-cup.jpg",
+    "name": "FIFA Club World Cup",
+    "title": "The Clash of Club Champions",
+    "description": "The FIFA Club World Cup brings together champions from each continent, creating a global showdown. It's where club teams prove their mettle on a worldwide stage."
+  },
+  {
+    "id": 9,
+    "image": "isl.jpg",
+    "name": "Indian Super League (ISL)",
+    "title": "India's Football Revolution",
+    "description": "The Indian Super League has reshaped football in India, featuring a mix of domestic and international stars. It's a growing force in Asian football, attracting fans nationwide."
+  }
+]
